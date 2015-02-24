@@ -1,0 +1,29 @@
+{
+  "name": "node-doorbell",
+  "version": "0.1.0",
+  "description": "Doorbell API library for node.js",
+  "main": "lib/doorbell.js",
+  "keywords": [
+    "doorbell",
+    "api",
+    "node"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "Anid Monsur",
+      "email": "ginovva320@gmail.com",
+      "web": "http://anidmonsur.me/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ginovva320/node-doorbell.git"
+  },
+  "bugs": "http://github.com/ginovva320/node-doorbell/issues",
+  "dependencies": {
+    "q": "^1.2.0",
+    "request": "^2.53.0",
+    "underscore": "1.6.0"
+  }
+}
